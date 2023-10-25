@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod rwxrxx mkdir my_dir
+chmod -r 751 mkdir my_dir
